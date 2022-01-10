@@ -12,4 +12,4 @@ My approach:
 Determine if a number is valid by checking if it appears in each row, column and box. 
 Recursively determine if a solution is valid by checking if it can create a valid solution. 
 
-"To understand recursion, one must first understand recursion"
+"To understand recursion, one must first understand recursion" - Master Oogway (maybe)
